@@ -13,6 +13,12 @@
 2. 정기 모임 시간 전까지 Pull Request 올리기
 3. 반드시 정기 모임 때 코드 리뷰 끝난 후 main branch로 merge
 
+### PR 규칙 및 Commit Message 규칙
+#### Pull Request
+`[이름] 알고리즘 명 - 푼 문제` ex) [유선주] 정렬 - 문제 1, 문제 2
+
+#### Commit Message
+`feat: 문제명.md`
 
 ## 일정표
 | 주차 | 폴더명 | 문제 1 | 문제 2 | 문제 3 | 진행 현황 |
