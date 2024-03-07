@@ -3,10 +3,6 @@ function solution(answers) {
     const secondPerson = [2,1,2,3,2,4,2,5]
     const thirdPerson = [3,3,1,1,2,2,4,4,5,5]
     
-    const firstLen = firstPerson.length;
-    const secondLen = secondPerson.length;
-    const thirdLen = thirdPerson.length;
-    
    const answerCounts = [firstPerson, secondPerson, thirdPerson].map(person => {
         const itemLength = person.length;
         return answers.filter((answer, index) => {
