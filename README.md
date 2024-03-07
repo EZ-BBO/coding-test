@@ -25,3 +25,4 @@
 | --- | --- | --- | --- | --- | --- |
 | 1주차 | `정렬` | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) |  | `진행 완료` |
 | 2주차 | `정렬` `완전탐색` | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | `진행 완료` |
+| 3주차 | `완전탐색` | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=javascript) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | | `진행 예정` |
