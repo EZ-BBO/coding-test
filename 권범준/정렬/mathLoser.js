@@ -11,11 +11,17 @@ function solution(answers) {
   const correctCount = [0, 0, 0];
 
   answers.forEach((item, index) => {
-    if (answers[index] === constant.first_num[i % first_num.length])
+    if (
+      answers[index] === constant.first_num[index % constant.first_num.length]
+    )
       correctCount[0] += 1;
-    if (answers[index] === constant.second_num[i % first_num.length])
+    if (
+      answers[index] === constant.second_num[index % constant.second_num.length]
+    )
       correctCount[1] += 1;
-    if (answers[index] === constant.third_num[i % first_num.length])
+    if (
+      answers[index] === constant.third_num[index % constant.third_num.length]
+    )
       correctCount[2] += 1;
   });
 
